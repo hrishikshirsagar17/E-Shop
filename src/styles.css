@@ -1,0 +1,8 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.py-5 bg-dark {
+    position: relative !important;
+}
